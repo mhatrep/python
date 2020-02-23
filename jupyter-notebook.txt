@@ -1,0 +1,7 @@
+To get help on a function in Python, position your cursor on the function name and press Shift+Tab.
+
+To expand the tooltip, click the + button on the upper‐right corner of the tooltip. 
+Get the expanded version of the tooltip when you press Shift+Tab+Tab.
+
+---------------------------------------------------
+
